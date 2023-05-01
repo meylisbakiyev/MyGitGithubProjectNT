@@ -13,6 +13,9 @@ public class AtmProject {
         //version myls1
         System.out.println("bir kisim kodlar");
         //myls2
+
+        System.out.println();
+        //myls3
     }
 
 }
