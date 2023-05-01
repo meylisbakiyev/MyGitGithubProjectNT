@@ -11,7 +11,8 @@ public class AtmProject {
 
         System.out.println("meylis branchi kodlarini yazdi");
         //version myls1
-
+        System.out.println("bir kisim kodlar");
+        //myls2
     }
 
 }
