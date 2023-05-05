@@ -18,6 +18,7 @@ public class AtmProject {
         //myls3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim
     }
 
 }
